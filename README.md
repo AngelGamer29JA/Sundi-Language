@@ -6,7 +6,7 @@ Es fundamental la enseñanza en niños y demás personas que tienen nulo, o poco
 
 ### [Enviar un "Hola mundo" en consola](#helloworld)
 ````batch
-	sendln "Hola mundo"
+sendln "Hola mundo"
 ````
 
 #### [¿Como ejecutar un script?](#run)
