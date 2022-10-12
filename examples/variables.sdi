@@ -1,0 +1,24 @@
+world = "mundo""
+num = 500.5
+
+sendln "Hola"
+sendln "Hola {world}"
+sendln "Your number is {num}"
+
+sendln "Your system name is {SYSTEM_NAME}"
+
+name = null
+years = null
+country = null
+
+# prompt "Comó te llamas? " stored in {name}
+# prompt "Cúal estu edad? " stored in {years}
+# prompt "De qué pais eres? " stored in {country}
+
+#sendln "Nombre: {name}"
+#sendln "Edad: {years}"
+#sendln "País: {country}"
+
+file = null
+create file "hola.txt" stored in {file}
+# read file "hola.txt" stored in {file}

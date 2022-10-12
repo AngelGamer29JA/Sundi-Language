@@ -1,0 +1,5 @@
+sendln "Hello world"
+
+# Hello world without newline
+send "Hello"
+send "world"

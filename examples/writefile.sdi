@@ -1,0 +1,5 @@
+file = null
+read file "hodla.txt" stored in {file}
+
+writeln "tu mama" to file in {file}
+write "hola" to file in {file}

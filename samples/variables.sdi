@@ -1,0 +1,5 @@
+age = 15 
+name = "Alex"
+
+# Send age and name formatted in expression
+sendln "{name} is {age} years old"

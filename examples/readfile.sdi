@@ -1,0 +1,8 @@
+file = null
+content = null
+
+read file "hodla.txt" stored in {file}
+read content in {file} to {content}
+
+sendln "Contenido del archivo:"
+send {content}

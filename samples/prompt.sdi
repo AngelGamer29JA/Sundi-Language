@@ -1,0 +1,5 @@
+name = null
+prompt "What's your name?" stored in {name}
+
+# Sending name stored in variable
+sendln "Your name is, {name}"

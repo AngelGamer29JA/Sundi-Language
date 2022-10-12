@@ -1,0 +1,4 @@
+file = null
+
+create file "data.yml" stored in {file}
+send "File created" # This line waits for the above code

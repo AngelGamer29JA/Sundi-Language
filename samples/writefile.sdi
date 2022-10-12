@@ -1,0 +1,10 @@
+file = null
+
+# First read file and store in variable
+read file "" stored in {file}
+
+# Write in file with line break
+writeln "Hello" to file in {file}
+
+# Write in file without line break
+write "World" to file in {file}

@@ -1,0 +1,9 @@
+file = null
+content = null
+
+# Read file and store in variable {file}
+read file "data.yml" stored in {file}
+read content in {file} to {content}
+
+# Send content to console
+sendln {content}

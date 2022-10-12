@@ -1,0 +1,22 @@
+name = "Pepe"
+
+sendln "Hola mundo, &c{name} {name}\n&da"
+sendln {SYSTEM_NAME}
+sendln {SYSTEM_VERSION}
+
+sendln "&&00black"
+sendln "&&11dark_blue"
+sendln "&&22dark_green"
+sendln "&&33dark_aqua"
+sendln "&&44dark_red"
+sendln "&&55dark_purple"
+sendln "&&66gold"
+sendln "&&77gray"
+sendln "&&88dark_gray"
+sendln "&&99blue"
+sendln "&&aagreen"
+sendln "&&bbaqua"
+sendln "&&ccred"
+sendln "&&ddlight_purple"
+sendln "&&eeyellow"
+sendln "&&ffwhite"

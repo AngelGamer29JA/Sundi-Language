@@ -1,0 +1,18 @@
+sendln
+send
+prompt
+
+if @{pepe} == 5:
+
+endif:
+
+loop 5 times:
+
+end:
+
+file = null
+create file "hola.txt" in {file}
+write "Hola mundo" to {file}
+
+loop 5 in {index}:
+    sendln "Hola mundo {index}"
